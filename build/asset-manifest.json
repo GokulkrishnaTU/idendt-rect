@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3dc8c54.css",
+    "main.js": "/static/js/main.e418d9eb.js",
+    "static/js/787.4a6dfc05.chunk.js": "/static/js/787.4a6dfc05.chunk.js",
+    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.3a84061fa1e9573b4a9f.woff",
+    "static/media/Inter-Light.woff": "/static/media/Inter-Light.994e34451cc19ede31d3.woff",
+    "static/media/Georgia-BoldItalic.woff": "/static/media/Georgia-BoldItalic.9a43b7031ff9edd24daa.woff",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.df454d31cb00344b1ff1.woff2",
+    "static/media/Inter-Light.woff2": "/static/media/Inter-Light.2d5198822ab091ce4305.woff2",
+    "static/media/Georgia-BoldItalic.woff2": "/static/media/Georgia-BoldItalic.2099dda987abe6fc4070.woff2",
+    "index.html": "/index.html",
+    "main.b3dc8c54.css.map": "/static/css/main.b3dc8c54.css.map",
+    "main.e418d9eb.js.map": "/static/js/main.e418d9eb.js.map",
+    "787.4a6dfc05.chunk.js.map": "/static/js/787.4a6dfc05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3dc8c54.css",
+    "static/js/main.e418d9eb.js"
+  ]
+}
